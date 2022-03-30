@@ -14,7 +14,7 @@
       <a href="https://github-readme-stats-chesterchong.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaeeddinehajji&layout=compact" alt="Github Stats" title="Github Stats" /></a>
     </td>
     <td>
-      <a href="https://github-readme-stats-chesterchong.vercel.app"><img align="center" src="https://github-readme-stats-chesterchong.vercel.app/api?username=alaeeddinehajji&show_icons=true&theme=maroongold" alt="Top Languages" title="Top Languages" /></a>
+      <a href="https://github-readme-stats-chesterchong.vercel.app"><img align="center" src="https://github-readme-stats-chesterchong.vercel.app/api?username=alaeeddinehajji&show_icons=true&theme=tokyonight" alt="Top Languages" title="Top Languages" /></a>
     </td>
   </tr>
 </table>
