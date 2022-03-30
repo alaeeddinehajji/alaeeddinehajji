@@ -6,13 +6,24 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm learning everyday #100DaysOfCode
 
+### 🔥 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaeeddinehajji&hide=contribs&theme=tokyonight,prs)
+<table>
+  <tr>
+    <td>
+      <a href="https://github-readme-stats-chesterchong.vercel.app"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaeeddinehajji&layout=compact" alt="Github Stats" title="Github Stats" /></a>
+    </td>
+    <td>
+      <a href="https://github-readme-stats-chesterchong.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alaeeddinehajji&repo=github-readme-stats" alt="Top Languages" title="Top Languages" /></a>
+    </td>
+  </tr>
+</table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alaeeddinehajji&repo=github-readme-stats)](https://github.com/alaeeddinehajji/github-readme-stats)
+---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaeeddinehajji&layout=compact)](https://github.com/alaeeddinehajji/github-readme-stats)
+[linkedin]:  https://www.linkedin.com/in/alaeeddine-hajji/
+[instagram]: https://www.instagram.com/alaeeddinehajji/
+[devto]: https://dev.to/alaeeddinehajji
 
-week stat
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alaeeddinehajji)](https://github.com/alaeeddinehajji/github-readme-stats)
+
