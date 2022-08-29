@@ -1,10 +1,10 @@
 ### Hi I'm alaeeddine hajji  👋
 
 - 🔭 I’m currently a bachlor student
-- 🌱 I’m currently learning Degital logic and C programming
+- 🌱 I’m currently learning Mobile apps dev with Java
 - 📫 You can reach me anytime
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm learning everyday #100DaysOfCode
+- ⚡ Fun fact: I'm learning everyday
 
 ### 🔥 Github Stats
 
