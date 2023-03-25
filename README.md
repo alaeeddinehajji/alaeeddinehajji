@@ -1,5 +1,9 @@
 ### Hi I'm alaeeddine
 
+[linkedin]:  https://www.linkedin.com/in/alaeeddine-hajji/
+[instagram]: https://www.instagram.com/alaeeddinehajji/
+[devto]: https://dev.to/alaeeddinehajji
+
 ### 🔥 Github Stats
 
 <table>
@@ -15,9 +19,5 @@
 
 ---
 
-
-[linkedin]:  https://www.linkedin.com/in/alaeeddine-hajji/
-[instagram]: https://www.instagram.com/alaeeddinehajji/
-[devto]: https://dev.to/alaeeddinehajji
 
 
