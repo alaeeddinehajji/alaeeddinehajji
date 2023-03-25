@@ -1,10 +1,4 @@
-### Hi I'm alaeeddine hajji  👋
-
-- 🔭 I’m currently a bachlor student
-- 🌱 I’m currently learning Mobile apps dev with Java
-- 📫 You can reach me anytime
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm learning everyday
+### Hi I'm alaeeddine
 
 ### 🔥 Github Stats
 
